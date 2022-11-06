@@ -3,17 +3,6 @@ public class Main {
         System.out.println("homeWorkCycle2");
 
 
-        System.out.println("Task №1");
-        {
-            int salary = 65535;
-            int totalSalary = 0;
-
-            for (int i = 1; i < 13; i++) {
-                totalSalary = totalSalary + totalSalary / 100;
-                totalSalary = totalSalary + salary;
-                System.out.println("Месяц " + i + " итого " + totalSalary);
-            }
-        }
 
         System.out.println("Task №1 ");
         {
