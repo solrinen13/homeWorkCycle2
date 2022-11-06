@@ -4,6 +4,7 @@ public class Main {
 
 
 
+
         System.out.println("Task №1 ");
         {
             int deposit = 15000;
